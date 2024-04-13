@@ -164,7 +164,6 @@ img{
       }
       .box {
         width: calc(50% - 10px);
-        height: 200px;
       }
     }
 
